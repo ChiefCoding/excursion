@@ -8,9 +8,21 @@ body {
     color: #ffffff;
     font-weight: normal;
     font-size: 50px;
+   
 }
 
 .p-link {
     color: aquamarine;
     font-size: 16px;
+}
+
+.sec-header {
+    color: #ffffff;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.sec-paragraph {
+    color: gray;
+    font-size: 21px;
 }
